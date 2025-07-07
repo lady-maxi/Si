@@ -23,6 +23,5 @@ LIB/
 
 Technologies
   -flutter
-  -Provider
   -sqflite
   -API HTTP
